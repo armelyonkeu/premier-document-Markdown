@@ -1,0 +1,43 @@
+---
+title: "Les Mollusques"
+author: "Armel Yonkeu"
+date: "10/22/2019"
+output:
+  pdf_document: default
+  html_document: default
+---
+Mollusque  retrouvé dans les Hautes-Alpes ![](/home/sv/Downloads/870x489_mollusque.jpg)
+
+[lien-photographie](http://alpesdusud.alpes1.com/news/hautes-alpes/62625/hautes-alpes-les-mollusques-au-coeur-de-deux-journees-a-savines-le-lac)
+
+# Generalités
+ 
+ Du latin _Mollusca_, qui signifie corps mou, le groupe des  Mollusques renferme près de 120000 espèces repertoriée. Il regroupe les plus grands invertébrés.
+
+# Classification
+
+| classes                           | nombre d'espèce |
+| --------------------------------- | --------------- |
+| Caudofovéates (ou chaetodermiens) | 70              |
+| Aplacophores (ou solénogastres)   | 250             |
+| Monoplacophores                   | 8               |
+| Polyplacophores                   | 550             |
+| Gastéropodes                      | 100000          |
+| Scaphopodes                       | 350             |
+| Bivalves                          | 20000           |
+| Céphalopodes                      | 600             |
+
+# Description
+
+Il est constitué generalement de trois parties: __une tête (sauf pour les bivalves)__, __une masse viscérale__ et __un pieds__. ils ne sont pas __métamérisés__ et La paroi de leur corps (ou tégument) est généralement épaisse et bien musclée, sauf là où se trouve la coquille. __Le pied est en principe ventral__, __épais__, et il a en principe une fonction locomotrice.
+
+## La coquille
+
+Elle est élaborée par l’épiderme du manteau et est constituée de 3 parties:
+-le périostracum
+-l’ostracum
+-l’hypostracum
+
+
+```
+
